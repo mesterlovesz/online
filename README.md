@@ -4,7 +4,7 @@
 
 ![Az eredeti játék főmenüje](https://mesterlovesz.online/assets/menu-preview.png)
 
-Singleplayer kampány és közös pályák multiplayerben, karakterválasztással, fegyver- és lövésszinkronnal, valamint pályachattel. A kampányállapot és a mentések a játékos böngészőjében maradnak. A privát fun módok nem részei ennek a kiadásnak.
+Singleplayer kampány és közös pályák multiplayerben, karakterválasztással, fegyver- és lövésszinkronnal, valamint pályachattel. A kampányállapot és a mentések a játékos böngészőjében maradnak.
 
 ## Indítás
 
